@@ -4,4 +4,5 @@ target/
 test/
 # ignore idea folder
 .idea/
-
+# ignore src/test
+src/test/
