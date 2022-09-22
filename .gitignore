@@ -1,0 +1,7 @@
+# ignore target folder
+target/
+# ignore test folder
+test/
+# ignore idea folder
+.idea/
+
